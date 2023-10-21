@@ -17,8 +17,11 @@ Međutim za nešto veće vrednosti ulaznih vrednosti:
 
 Prijavljuje grešku zbog deljenja nulom!
 
+Od 10 komisijskih test primera na https://petlja.org/biblioteka/r/Zbirka2/broj_kombinacija, prolazi samo jedan (test primer 5), dok za ostale prijavljuje gresku WA ili RTE:
+https://dragilic.files.wordpress.com/2023/10/r2_t01_01_int64_05_komb_broj_kombinacija_n_nad_k_i_fact_ver_000.png
 
-
+---------------------------------------------------------------------
+Verzija 000
 ---------------------------------------------------------------------
 // https://petlja.org/biblioteka/r/Zbirka2/broj_kombinacija
 // https://arena.petlja.org/competition/r1-04-metode-01-staticke-metode#tab_132244
