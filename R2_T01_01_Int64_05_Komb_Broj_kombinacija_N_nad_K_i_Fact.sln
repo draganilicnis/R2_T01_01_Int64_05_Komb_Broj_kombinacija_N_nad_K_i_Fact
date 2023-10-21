@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R2_T01_01_Int64_05_Komb_Broj_kombinacija_N_nad_K_i_Fact", "R2_T01_01_Int64_05_Komb_Broj_kombinacija_N_nad_K_i_Fact\R2_T01_01_Int64_05_Komb_Broj_kombinacija_N_nad_K_i_Fact.csproj", "{99538DBB-A144-4FEB-A5BC-91E574397692}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99538DBB-A144-4FEB-A5BC-91E574397692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99538DBB-A144-4FEB-A5BC-91E574397692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99538DBB-A144-4FEB-A5BC-91E574397692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99538DBB-A144-4FEB-A5BC-91E574397692}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {957A85C8-8608-410A-96AB-15951C793EB0}
+	EndGlobalSection
+EndGlobal
